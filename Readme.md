@@ -1,3 +1,1 @@
-# Ender-3 profiles for PrusaSlicer
- ↓↓↓ Video manual ↓↓↓
-[![Video manual](https://zemistr.github.io/Ender-3_PrusaSlicer/Video.png)](https://youtu.be/XTotCtZLu1U "Video manual")
+Based on https://github.com/Zemistr/Ender-3_PrusaSlicer
